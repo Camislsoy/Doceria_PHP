@@ -3,7 +3,6 @@ $dbHost = 'Localhost';
 $dbUsername = 'root';
 $dbPassword = '';
 $dbName = 'dados_doceria';
-
 ?>
 
 // Verificar se a conexão foi efetuada
